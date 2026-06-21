@@ -60,4 +60,4 @@ The ESP32 continuously reads the water level sensor.
 
 Benjamin Kpoka
 
-Embedded Systems Engineering Student
+Electrical and Electronic Engineering Student
