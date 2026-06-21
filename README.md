@@ -45,6 +45,11 @@ The ESP32 continuously reads the water level sensor.
 
 ![Simulation](Workwi_Simulation.png)
 
+### Components Testing
+
+![Wiring](Components_Testing.jpg)
+
+
 ### Android Application
 
 ![Mobile App](Mobile_App_Android1.jpg)
